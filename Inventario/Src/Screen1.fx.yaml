@@ -1,0 +1,43 @@
+Screen1 As screen:
+    BackgroundImage: =CR7NAVIDAD
+
+    Button1 As button:
+        Height: =82
+        OnSelect: =Navigate(Entrada)
+        Size: =24
+        Text: ="Entrada"
+        Width: =337
+        X: =160
+        Y: =304
+        ZIndex: =1
+
+    Button1_1 As button:
+        Height: =82
+        OnSelect: =Navigate(Salida)
+        Size: =24
+        Text: ="Salida"
+        Width: =337
+        X: =160
+        Y: =499
+        ZIndex: =2
+
+    Button1_2 As button:
+        Height: =82
+        Size: =24
+        Text: ="Inventario"
+        Width: =337
+        X: =160
+        Y: =706
+        ZIndex: =3
+
+    Label2 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =30
+        Text: ="Menú"
+        Width: =560
+        X: =48
+        Y: =63
+        ZIndex: =4
+
