@@ -40,15 +40,19 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/09/2023 22:46:34",
+  "HeaderLastSavedDateTimeUTC": "02/09/2023 22:49:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {
-    "CR7NAVIDAD": "b99130ec-65a6-4208-b977-360acb58fdd5.jpg"
+    "CR7NAVIDAD": "b99130ec-65a6-4208-b977-360acb58fdd5.jpg",
+    "FB_IMG_1671940003342": "693ce097-0527-4a84-a34d-96a875b01b23.jpg",
+    "tarjeta delante": "2f38a938-6e09-4624-9af4-5db3c71945c6.jpg"
   },
   "LocalResourceRootPaths": {
-    "CR7NAVIDAD": "https://docserverpwaprodeus.blob.core.windows.net/01b89a38-cdec-4115-96f2-a7ccaa40d453-1/resource/Assets0Images0b99130ec-65a6-4208-b977-360acb58fdd5.jpg?sv=2017-04-17&sr=b&sig=S3MyI0cxQLb0PkKK0BUhg27yU%2Fy8JiuXRYw03cJcDWI%3D&spr=https&se=2023-02-10T22%3A55%3A21Z&sp=r"
+    "CR7NAVIDAD": "https://docserverpwaprodeus.blob.core.windows.net/01b89a38-cdec-4115-96f2-a7ccaa40d453-1/resource/Assets0Images0b99130ec-65a6-4208-b977-360acb58fdd5.jpg?sv=2017-04-17&sr=b&sig=S3MyI0cxQLb0PkKK0BUhg27yU%2Fy8JiuXRYw03cJcDWI%3D&spr=https&se=2023-02-10T22%3A55%3A21Z&sp=r",
+    "FB_IMG_1671940003342": "https://docserverpwaprodeus.blob.core.windows.net/01b89a38-cdec-4115-96f2-a7ccaa40d453-1/resource/f8544fe9-5cf8-4f4f-919d-2190f0fa5ab9.jpg?sv=2017-04-17&sr=b&sig=uX98A6y8iP9Cnj7RyWmF%2BpNehGcKhnCAynFkPPYKi9Q%3D&spr=https&se=2023-02-10T23%3A04%3A09Z&sp=r",
+    "tarjeta delante": "https://docserverpwaprodeus.blob.core.windows.net/01b89a38-cdec-4115-96f2-a7ccaa40d453-1/resource/4029ded4-f820-44d4-9305-b8316ee82d50.jpg?sv=2017-04-17&sr=b&sig=yxCZ%2FOfzQXSGL0FDfGhPJAuRqUM7ftxC6eaeX0pG6Sw%3D&spr=https&se=2023-02-10T23%3A03%3A22Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -139,7 +143,9 @@
     "TextInput1_7": 25
   },
   "ResourcesJsonIndices": {
-    "Image-CR7NAVIDAD": 0
+    "Image-CR7NAVIDAD": 0,
+    "Image-FB_IMG_1671940003342": 2,
+    "Image-tarjeta delante": 1
   },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},

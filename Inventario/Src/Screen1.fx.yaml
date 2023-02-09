@@ -1,5 +1,6 @@
 Screen1 As screen:
-    BackgroundImage: =CR7NAVIDAD
+    BackgroundImage: =FB_IMG_1671940003342
+    ImagePosition: =ImagePosition.Fill
 
     Button1 As button:
         Height: =82
